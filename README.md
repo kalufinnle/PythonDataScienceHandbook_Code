@@ -5,7 +5,7 @@
 
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks. 
 
-For figure codes, visit: https://jakevdp.github.io/PythonDataScienceHandbook/06.00-figure-code.html
+For figure codes, --------> visit: https://jakevdp.github.io/PythonDataScienceHandbook/06.00-figure-code.html
 
 ![cover image](notebooks/figures/PDSH-cover.png)
 
